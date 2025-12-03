@@ -65,13 +65,13 @@ Dashboards built:
 2. **Customer Insights Dashboard**
    * Average Revenue per customer, Total Customers, Gold Tier Customers
      
-3. **Product Performance Dashboard**
+3. **Product Insights Dashboard**
    * Total Discount, Inventory Value, Average Revenue per customer
      
-4. **Inventory Dashboard**
+4. **Inventory Insights Dashboard**
    * Total Inventory, Total Reorder Level, Average Reorder Level
      
-5. **Shipping & Delivery Dashboard**
+5. **Shipping Insights Dashboard**
    * Total Shipping Cost, Total Shipments, Average Carrier Rating
 
 ### **6. Deployment (Power BI Service)**
