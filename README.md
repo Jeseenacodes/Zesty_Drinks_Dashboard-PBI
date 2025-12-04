@@ -10,7 +10,6 @@
 
 <img src="https://img.shields.io/badge/Project-Zesty%20Drinks-4B9CD3?style=flat" />
 <img src="https://img.shields.io/badge/Tech-Snowflake%20%7C%20%7C%20PowerBI-6C63FF?style=flat" />
-<img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-brightgreen?style=flat" />
 <img src="https://img.shields.io/badge/PowerBI-Reporting%20%26%20Dashboards-F2C811?style=flat" />
 <img src="https://img.shields.io/badge/Status-Completed-success?style=flat" />
 
