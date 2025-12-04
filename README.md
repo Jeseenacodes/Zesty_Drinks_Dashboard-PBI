@@ -57,8 +57,6 @@ To help Zesty Drinks drive smarter decisions and future growth, I designed and d
 
 ### **2. Data Cleaning (Power Query)**
 
-Tasks completed:
-
 * Standardized column names
 * Removed duplicates & null-heavy rows
 * Fixed data types (dates, currency, numeric fields)
